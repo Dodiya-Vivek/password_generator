@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+
+    <string name="app_summary">
+        This Password Generator is a simple, user-friendly Android application designed to help users create and manage secure passwords. The app offers several features to ensure that the passwords generated are strong and difficult to guess.
+
+        \n\n&#x2022;\tFeatures:\n
+        \n&#x2022; Random Password Generation: Create complex passwords using numbers, letters, and special characters.
+        \n&#x2022; Customizable Passwords: Users can choose whether to include letters and special characters in their passwords.
+        \n&#x2022; Password Management: Save and manage generated passwords within the app. Edit and Delete: Easily edit or delete saved passwords.
+        \n&#x2022; User-Friendly Interface: Simple and intuitive UI for a smooth user experience.
+    </string>
+
+</resources>
+
